@@ -1,0 +1,15 @@
+'--86a5f74--2022-05-26--damian.plaza'
+6	1	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.Types.fs
+2	2	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--59df7f6--2022-05-26--damian.plaza'
+1	58	Powel.Synchronization.Modules.Tests/TokenProviderManagerTests.fs
+
+'--db8995e--2022-05-26--damian.plaza'
+4	0	Powel.Synchronization.Modules/variables.json
+
+'--632a6ad--2022-05-26--damian.plaza'
+2	1	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+3	3	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+3	2	Powel.Synchronization.Modules.Tests/AssignmentOwnershipClientTests.fs
+2	5	Powel.Synchronization.Modules.Tests/TokenProviderManagerTests.fs

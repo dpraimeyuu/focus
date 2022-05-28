@@ -1,0 +1,11 @@
+'--e8b59de--2022-03-07--Damian Płaza'
+'--7c834d9--2022-03-07--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables.json
+1	1	Powel.Synchronization.Observations/Synchronization.fs
+
+'--4805696--2022-02-25--Damian Płaza'
+'--480e0b3--2022-02-24--Damian Płaza'
+'--3c96b05--2022-02-24--damian.plaza'
+'--7c60dfd--2022-02-24--damian.plaza'
+2	2	.github/workflows/build-pull-request.yml
+1	1	.github/workflows/release.yml

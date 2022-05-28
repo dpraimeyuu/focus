@@ -1,0 +1,507 @@
+'--86a5f74--2022-05-26--damian.plaza'
+6	1	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.Types.fs
+2	2	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--59df7f6--2022-05-26--damian.plaza'
+1	58	Powel.Synchronization.Modules.Tests/TokenProviderManagerTests.fs
+
+'--db8995e--2022-05-26--damian.plaza'
+4	0	Powel.Synchronization.Modules/variables.json
+
+'--632a6ad--2022-05-26--damian.plaza'
+2	1	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+3	3	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+3	2	Powel.Synchronization.Modules.Tests/AssignmentOwnershipClientTests.fs
+2	5	Powel.Synchronization.Modules.Tests/TokenProviderManagerTests.fs
+
+'--7ff65b4--2022-05-26--damian.plaza'
+2	1	Powel.Synchronization.Assignments/Program.fs
+2	1	Powel.Synchronization.Configuration/Program.fs
+2	1	Powel.Synchronization.InspectionData/Program.fs
+2	1	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.DocAttributes/Program.fs
+2	1	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+2	1	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.New/Program.fs
+2	1	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+2	1	Powel.Synchronization.Measurements/ToNetbas/Powel.Synchronization.SyncMeasurements/Program.fs
+2	1	Powel.Synchronization.Observations/Program.fs
+2	1	Powel.Synchronization.Tests/Program.fs
+
+'--ee3a801--2022-05-26--damian.plaza'
+2	1	Powel.Synchronization.Measurements/ToAzure/Powel.Synchronization.Measurements/Program.fs
+1	0	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+13	1	Powel.Synchronization.Modules/shared/Domain.fs
+6	0	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.Types.fs
+27	18	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--523a1b5--2022-05-25--damian.plaza'
+2	2	Powel.Synchronization.Modules.Tests/ResilientMailboxTests.fs
+
+'--d1c8f65--2022-05-25--damian.plaza'
+21	33	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--4b6e5f6--2022-05-25--damian.plaza'
+1	0	Powel.Synchronization.Modules.Tests/Powel.Synchronization.Modules.Tests.fsproj
+2	17	Powel.Synchronization.Modules.Tests/ResilientMailboxTests.fs
+19	0	Powel.Synchronization.Modules.Tests/XUnit.Helpers.fs
+
+'--e0c6a06--2022-05-25--damian.plaza'
+22	3	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--7aaac40--2022-05-25--damian.plaza'
+107	0	Powel.Synchronization.Modules.Tests/ResilientMailboxTests.fs
+
+'--9fc40f2--2022-05-25--damian.plaza'
+2	4	Powel.Synchronization.Modules.Tests/Powel.Synchronization.Modules.Tests.fsproj
+58	1	Powel.Synchronization.Modules.Tests/TokenProviderManagerTests.fs
+41	1	Powel.Synchronization.Modules/shared/utils/TokenProvider/TokenProvider.fs
+
+'--683a0c4--2022-05-06--damian.plaza'
+2	1	Powel.Synchronization.Encryption/Encryption.fs
+
+'--c64afb1--2022-05-05--damian.plaza'
+1	2	Powel.Synchronization.Encryption.Cmdlets/EncryptVariable.Cmdlet.fs
+1	1	Powel.Synchronization.Encryption.Cmdlets/Powel.Synchronization.Encryption.Cmdlets.fsproj
+20	0	Powel.Synchronization.Encryption/Encryption.fs
+2	1	Powel.Synchronization.Encryption/Powel.Synchronization.Encryption.fsproj
+6	3	Powel.Synchronization.Modules/shared/Variables.fs
+1	1	Powel.Synchronization.Modules/variables-json.psm1
+
+'--5714ac5--2022-05-05--damian.plaza'
+2	0	Powel.Synchronization.Encryption.Cmdlets/Powel.Synchronization.Encryption.Cmdlets.fsproj
+4	1	Powel.Synchronization.Encryption/Powel.Synchronization.Encryption.fsproj
+0	61	Powel.Synchronization.Modules/shared/Encryption.fs
+
+'--89eeeaa--2022-05-05--Damian Płaza'
+'--c3ea3df--2022-05-05--damian.plaza'
+5	1	Powel.Synchronization.Encryption/Powel.Synchronization.Encryption.fsproj
+
+'--388f9ce--2022-05-05--damian.plaza'
+14	0	Powel.Maintenance.Synchronization.sln
+3	3	Powel.Synchronization.Encryption.Cmdlets/Powel.Synchronization.Encryption.Cmdlets.fsproj
+65	0	Powel.Synchronization.Encryption/Encryption.fs
+15	0	Powel.Synchronization.Encryption/Powel.Synchronization.Encryption.fsproj
+8	10	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+1	1	Powel.Synchronization.Modules/app.config
+2	5	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--b79adbf--2022-04-28--damian.plaza'
+6	3	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+11	0	Powel.Synchronization.Modules/app.config
+
+'--ac09fb6--2022-04-28--damian.plaza'
+7	0	.vscode/launch.json
+
+'--5f1e9d9--2022-04-27--Damian Płaza'
+'--d477709--2022-04-25--damian.plaza'
+2	0	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+
+'--fe82165--2022-04-25--Damian Płaza'
+'--4aace6c--2022-04-22--damian.plaza'
+14	8	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--7d91412--2022-04-22--damian.plaza'
+0	1	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--632c961--2022-04-22--damian.plaza'
+1	0	Powel.Synchronization.Modules/shared/Domain.fs
+14	6	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--57640bf--2022-04-22--damian.plaza'
+0	9	Powel.Synchronization.Modules/sync-components.ps1
+27	13	Powel.Synchronization.Modules/variables-json.psm1
+
+'--0b12b9d--2022-04-22--damian.plaza'
+2	1	Powel.Synchronization.Modules/variables.json
+
+'--f3a15ee--2022-04-22--Damian Płaza'
+'--33f6a08--2022-04-21--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables-json.psm1
+
+'--5f1f5fb--2022-04-21--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables-json.psm1
+
+'--62de556--2022-04-21--Damian Płaza'
+'--60e119c--2022-04-21--damian.plaza'
+2	1	Powel.Synchronization.Modules/shared/Variables.fs
+3	1	Powel.Synchronization.Modules/variables-json.psm1
+
+'--e3aabc8--2022-04-21--Damian Płaza'
+'--08833dc--2022-04-21--damian.plaza'
+2	8	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--90766aa--2022-04-21--damian.plaza'
+'--dbe6d16--2022-04-21--damian.plaza'
+6	0	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.Fixtures.fs
+10	13	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+
+'--871af01--2022-04-21--damian.plaza'
+59	0	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.Fixtures.fs
+59	0	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+2	0	Powel.Synchronization.Modules.Tests/Powel.Synchronization.Modules.Tests.fsproj
+
+'--b99a320--2022-04-20--damian.plaza'
+1	1	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--57130c2--2022-04-20--damian.plaza'
+5	7	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+
+'--584e534--2022-04-20--damian.plaza'
+17	12	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--82b2a55--2022-04-20--damian.plaza'
+9	3	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+
+'--5d13142--2022-04-20--damian.plaza'
+2	40	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--cdee1b4--2022-04-20--damian.plaza'
+1	1	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+124	0	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+1	2	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--56bdfe7--2022-04-20--damian.plaza'
+2	2	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+29	24	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+188	52	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--3468e9c--2022-04-20--damian.plaza'
+42	57	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+
+'--03928e6--2022-04-20--damian.plaza'
+0	1	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+238	90	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+1	1	Powel.Synchronization.Modules/shared/utils/AssetOwnershipClient/AssetOwnershipClient.fs
+
+'--999807f--2022-04-19--damian.plaza'
+142	2	Powel.Synchronization.Modules.Tests/AssetOwnershipClientTests.fs
+
+'--9633cfe--2022-04-15--damian.plaza'
+'--df7b461--2022-04-15--damian.plaza'
+'--e6260b8--2022-04-15--damian.plaza'
+'--101bac5--2022-04-15--damian.plaza'
+-	-	documentation/troubleshooting-deployment-issues/failed-connection-when-deploying-1.png
+
+'--8cabbd1--2022-04-15--damian.plaza'
+-	-	documentation/troubleshooting-deployment-issues/check-deployment-target-connectivity-1.png
+-	-	documentation/troubleshooting-deployment-issues/failed-connection-when-deploying-1.png
+-	-	documentation/troubleshooting-deployment-issues/failed-deployment-target-health-check-1.png
+-	-	documentation/troubleshooting-deployment-issues/navigate-to-deployment-target-1.png
+-	-	documentation/troubleshooting-deployment-issues/on-prem-windows-services-1.png
+-	-	documentation/troubleshooting-deployment-issues/successful-deployment-target-health-check-1.png
+25	0	documentation/troubleshooting-deployment-issues/troubleshooting-deployment-issues.md
+-	-	documentation/troubleshooting-deployment-issues/unavailable-deployment-target-1.png
+1	0	readme.md
+
+'--0093d15--2022-04-15--Damian Płaza'
+10	0	documentation/Troubleshooting deployment issues
+
+'--6521b57--2022-04-15--KubaLorenc'
+'--2e3f2a6--2022-04-12--Damian Płaza'
+'--9954dc6--2022-04-08--damian.plaza'
+1	1	Powel.Synchronization.Encryption.Cmdlets/DecryptVariables.Cmdlet.fs
+
+'--c30649e--2022-04-07--damian.plaza'
+2	1	Powel.Synchronization.Modules/set-continuous-components-sync.ps1
+2	1	Powel.Synchronization.Modules/set-initial-components-sync.ps1
+2	1	Powel.Synchronization.Modules/sync-active-observations.ps1
+2	1	Powel.Synchronization.Modules/sync-assignments.ps1
+2	1	Powel.Synchronization.Modules/sync-configuration.ps1
+2	1	Powel.Synchronization.Modules/sync-documentation-update.ps1
+2	1	Powel.Synchronization.Modules/sync-inspection-data.ps1
+2	1	Powel.Synchronization.Modules/sync-maintenance-inspection-results.ps1
+2	1	Powel.Synchronization.Modules/sync-measurements-to-netbas.ps1
+2	1	Powel.Synchronization.Modules/sync-measurements.ps1
+2	1	Powel.Synchronization.Modules/sync-not-existing.ps1
+2	1	Powel.VerifyDocumentsUncPath.Cmdlet/verify-unc.ps1
+2	1	script/get-measurements.ps1
+2	1	script/log.ps1
+2	1	script/run-measurements-sync.ps1
+2	1	script/send-mc.ps1
+
+'--329f328--2022-04-07--damian.plaza'
+1	1	Powel.Synchronization.Modules/initial-variables.json-encryption.ps1
+1	1	Powel.Synchronization.Modules/set-continuous-components-sync.ps1
+1	1	Powel.Synchronization.Modules/set-initial-components-sync.ps1
+1	1	Powel.Synchronization.Modules/sync-active-observations.ps1
+1	1	Powel.Synchronization.Modules/sync-assignments.ps1
+1	1	Powel.Synchronization.Modules/sync-configuration.ps1
+1	1	Powel.Synchronization.Modules/sync-documentation-update.ps1
+1	1	Powel.Synchronization.Modules/sync-inspection-data.ps1
+1	1	Powel.Synchronization.Modules/sync-maintenance-inspection-results.ps1
+1	1	Powel.Synchronization.Modules/sync-measurements-to-netbas.ps1
+1	1	Powel.Synchronization.Modules/sync-measurements.ps1
+1	1	Powel.Synchronization.Modules/sync-not-existing.ps1
+1	1	Powel.VerifyDocumentsUncPath.Cmdlet/verify-unc.ps1
+
+'--ac64ef8--2022-04-07--damian.plaza'
+0	22	Powel.Synchronization.Encryption.Cmdlets/DecryptVariable.Cmdlet.fs
+24	0	Powel.Synchronization.Encryption.Cmdlets/DecryptVariables.Cmdlet.fs
+1	1	Powel.Synchronization.Encryption.Cmdlets/Powel.Synchronization.Encryption.Cmdlets.fsproj
+3	0	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+7	6	Powel.Synchronization.Modules/initial-variables.json-encryption.ps1
+21	1	Powel.Synchronization.Modules/shared/Encryption.fs
+1	21	Powel.Synchronization.Modules/shared/Variables.fs
+2	1	Powel.Synchronization.Modules/sync-components.ps1
+22	0	Powel.Synchronization.Modules/variables-json.psm1
+
+'--1f4c804--2022-03-28--damian.plaza'
+6	2	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--17657fd--2022-03-28--damian.plaza'
+28	2	Powel.Synchronization.Modules/shared/Variables.fs
+
+'--62145d8--2022-03-28--damian.plaza'
+22	0	Powel.Synchronization.Encryption.Cmdlets/DecryptVariable.Cmdlet.fs
+22	0	Powel.Synchronization.Encryption.Cmdlets/EncryptVariable.Cmdlet.fs
+28	0	Powel.Synchronization.Encryption.Cmdlets/Powel.Synchronization.Encryption.Cmdlets.fsproj
+
+'--22bc88a--2022-03-28--damian.plaza'
+14	0	Powel.Maintenance.Synchronization.sln
+5	0	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+19	0	Powel.Synchronization.Modules/initial-variables.json-encryption.ps1
+41	0	Powel.Synchronization.Modules/shared/Encryption.fs
+
+'--1f28e48--2022-03-17--Damian Płaza'
+'--4abf5e4--2022-03-16--Damian Płaza'
+'--39f301e--2022-03-16--damian.plaza'
+83	79	Powel.Synchronization.Observations/Program.fs
+
+'--3f7da78--2022-03-09--Damian Płaza'
+'--b83c7c9--2022-03-09--Damian Płaza'
+'--8cb5bf1--2022-03-09--damian.plaza'
+2	0	Powel.Synchronization.Modules/shared/Domain.fs
+
+'--f4c1acf--2022-03-09--damian.plaza'
+1	1	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToCorrectionAssignment.fs
+32	8	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToObservation.fs
+4	2	Powel.Synchronization.Observations/Synchronization.fs
+
+'--e8b59de--2022-03-07--Damian Płaza'
+'--7c834d9--2022-03-07--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables.json
+1	1	Powel.Synchronization.Observations/Synchronization.fs
+
+'--4805696--2022-02-25--Damian Płaza'
+'--480e0b3--2022-02-24--Damian Płaza'
+'--3c96b05--2022-02-24--damian.plaza'
+'--7c60dfd--2022-02-24--damian.plaza'
+2	2	.github/workflows/build-pull-request.yml
+1	1	.github/workflows/release.yml
+
+'--8beb116--2022-02-24--Damian Płaza'
+0	2	.github/workflows/ci_build_and_push.yml
+
+'--82a9dc7--2022-02-24--Damian Płaza'
+1	1	.github/workflows/ci_build_and_push.yml
+
+'--10d2da9--2022-02-24--Damian Płaza'
+3	9	.github/workflows/ci_build_and_push.yml
+
+'--afdb1e3--2022-02-24--Damian Płaza'
+2	0	.github/workflows/ci_build_and_push.yml
+
+'--a9a3451--2022-02-24--Damian Płaza'
+4	2	.github/workflows/ci_build_and_push.yml
+
+'--11ab89c--2022-02-24--Damian Płaza'
+5	0	.github/workflows/ci_build_and_push.yml
+
+'--6a085e1--2022-02-24--Damian Płaza'
+1	1	.github/workflows/ci_build_and_push.yml
+
+'--f01f239--2022-02-24--Damian Płaza'
+1	1	.github/workflows/build-pull-request.yml
+
+'--84a33ec--2022-02-24--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables.json
+
+'--3c09268--2022-02-11--Damian Płaza'
+'--8324c77--2022-02-10--dariuszpelka-dotcom'
+1	4	script/send-mc.ps1
+
+'--e44dc89--2022-02-10--dariuszpelka-dotcom'
+1	1	script/send-mc.ps1
+
+'--90d0986--2022-02-10--dariuszpelka-dotcom'
+12	5	script/send-mc.ps1
+
+'--d848dc9--2022-02-09--dariuszpelka-dotcom'
+2	2	script/send-mc.ps1
+
+'--16c794e--2022-02-09--dariuszpelka-dotcom'
+13	0	script/send-mc.ps1
+
+'--7b7dcf6--2022-02-08--dariuszpelka-dotcom'
+'--ef9ed3d--2022-02-08--dariuszpelka-dotcom'
+6	6	Powel.Synchronization.Modules/shared/Logger.fs
+
+'--f33e850--2022-02-08--dariuszpelka-dotcom'
+3	3	Powel.Synchronization.Assignments/Program.fs
+3	3	Powel.Synchronization.InspectionData/Program.fs
+3	3	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+3	3	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.New/Program.fs
+3	3	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+3	3	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+3	3	Powel.Synchronization.Measurements/ToAzure/Powel.Synchronization.Measurements/Program.fs
+3	3	Powel.Synchronization.Measurements/ToNetbas/Powel.Synchronization.SyncMeasurements/Program.fs
+21	9	Powel.Synchronization.Modules/shared/Logger.fs
+
+'--7df002b--2022-02-08--dariuszpelka-dotcom'
+3	2	Powel.Synchronization.Assignments/Program.fs
+2	2	Powel.Synchronization.InspectionData/Program.fs
+2	2	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+1	1	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.New/Program.fs
+1	1	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+2	2	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+2	2	Powel.Synchronization.Measurements/ToAzure/Powel.Synchronization.Measurements/Program.fs
+1	3	Powel.Synchronization.Measurements/ToNetbas/Powel.Synchronization.SyncMeasurements/Program.fs
+21	19	Powel.Synchronization.Modules/shared/Logger.fs
+
+'--501494d--2022-02-07--dariuszpelka-dotcom'
+0	2	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.DocAttributes/Program.fs
+0	2	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+3	2	Powel.Synchronization.Measurements/ToNetbas/Powel.Synchronization.SyncMeasurements/Program.fs
+0	2	Powel.Synchronization.NetbasChangeDetection/Program.fs
+
+'--de1fb9d--2022-02-07--dariuszpelka-dotcom'
+3	2	Powel.Synchronization.Assignments/Program.fs
+2	3	Powel.Synchronization.InspectionData/Program.fs
+4	3	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.New/Program.fs
+4	3	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+2	3	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+5	4	Powel.Synchronization.Metrics/Program.fs
+4	4	Powel.Synchronization.Observations/Program.fs
+
+'--afc3578--2022-02-07--dariuszpelka-dotcom'
+6	16	Powel.Synchronization.Modules/variables.json
+
+'--a001177--2022-02-07--dariuszpelka-dotcom'
+89	78	Powel.Synchronization.Modules/variables.json
+
+'--832268a--2022-02-07--dariuszpelka-dotcom'
+4	3	Powel.Synchronization.Assignments/Program.fs
+3	3	Powel.Synchronization.Configuration/Program.fs
+4	3	Powel.Synchronization.InspectionData/Program.fs
+3	2	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.DocAttributes/Program.fs
+3	2	Powel.Synchronization.MaintenanceComponents/ToAzure/Powel.Synchronization.MaintenanceComponents/Program.fs
+5	4	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.New/Program.fs
+4	3	Powel.Synchronization.MaintenanceComponents/ToNetbas/Powel.Synchronization.Update/Program.fs
+4	3	Powel.Synchronization.MaintenanceInspectionResults/Program.fs
+3	2	Powel.Synchronization.Measurements/ToAzure/Powel.Synchronization.Measurements/Program.fs
+5	4	Powel.Synchronization.Measurements/ToNetbas/Powel.Synchronization.SyncMeasurements/Program.fs
+4	4	Powel.Synchronization.Metrics/Program.fs
+79	80	Powel.Synchronization.Modules/variables.json
+2	1	Powel.Synchronization.NetbasChangeDetection/Program.fs
+6	5	Powel.Synchronization.Observations/Program.fs
+
+'--46329ef--2022-02-04--Damian Płaza'
+'--951da7f--2022-02-04--Damian Płaza'
+'--c5bdbb5--2022-02-03--dariuszpelka-dotcom'
+'--3f7dd1c--2022-02-03--damian.plaza'
+3	1	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToCorrectionAssignment.fs
+17	1	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToObservation.fs
+0	2	Powel.Synchronization.Modules/shared/Domain.fs
+
+'--859505a--2022-02-03--damian.plaza'
+1	0	Powel.Synchronization.Measurements/ToAzure/Powel.Synchronization.Measurements/Measurements.fs
+3	0	Powel.Synchronization.Modules/shared/Domain.fs
+
+'--c4a4791--2022-02-03--Damian Płaza'
+'--23602f3--2022-02-03--damian.plaza'
+1	1	Powel.Synchronization.Modules/set-continuous-components-sync.ps1
+
+'--aa6b7f8--2022-02-03--Damian Płaza'
+'--b96d736--2022-02-03--damian.plaza'
+12	0	Powel.Synchronization.Modules/Powel.Synchronization.Modules.fsproj
+77	0	Powel.Synchronization.Modules/json-utils.psm1
+8	0	Powel.Synchronization.Modules/set-continuous-components-sync.ps1
+8	0	Powel.Synchronization.Modules/set-full-components-sync.ps1
+8	0	Powel.Synchronization.Modules/set-initial-components-sync.ps1
+
+'--1cac17d--2022-02-03--Damian Płaza'
+12	1	documentation/how-to-start.md
+
+'--1ebc093--2022-02-02--Damian Płaza'
+3	1	documentation/how-to-start.md
+
+'--06f4294--2022-02-02--Damian Płaza'
+7	1	documentation/how-to-start.md
+
+'--46de52c--2022-02-02--Damian Płaza'
+1	1	documentation/how-to-start.md
+
+'--a187912--2022-02-02--Damian Płaza'
+1	1	documentation/how-to-start.md
+
+'--702a6ee--2022-02-02--Damian Płaza'
+5	0	documentation/how-to-start.md
+
+'--fe33668--2022-02-02--Damian Płaza'
+50	0	documentation/how-to-start.md
+
+'--95ca3c2--2022-01-27--Damian Płaza'
+'--7939655--2022-01-27--damian.plaza'
+2	1	Powel.Synchronization.Configuration/Program.fs
+1	0	Powel.Synchronization.Modules/sync-components.ps1
+
+'--9044b55--2022-01-26--dariuszpelka-dotcom'
+'--c036711--2022-01-26--dariuszpelka-dotcom'
+1	1	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToCorrectionAssignment.fs
+
+'--1534189--2022-01-25--dariuszpelka-dotcom'
+1	0	Powel.Synchronization.Modules/azure-sync/convert-to-field-domain/ConvertToCorrectionAssignment.fs
+2	0	Powel.Synchronization.Modules/shared/Domain.fs
+
+'--3fa42d8--2022-01-21--Damian Płaza'
+'--1ed19f8--2022-01-21--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables.json
+
+'--a056fac--2022-01-20--Damian Płaza'
+'--371f7ff--2022-01-20--damian.plaza'
+1	1	Powel.Synchronization.Modules/sync-active-observations.ps1
+1	1	Powel.Synchronization.Modules/sync-assignments.ps1
+2	2	Powel.Synchronization.Modules/sync-components.ps1
+1	1	Powel.Synchronization.Modules/sync-documentation-update.ps1
+1	1	Powel.Synchronization.Modules/sync-inspection-data.ps1
+1	1	Powel.Synchronization.Modules/sync-maintenance-inspection-results.ps1
+1	1	Powel.Synchronization.Modules/sync-measurements-to-netbas.ps1
+1	1	Powel.Synchronization.Modules/sync-measurements.ps1
+1	1	Powel.Synchronization.Modules/sync-not-existing.ps1
+
+'--1c6bc19--2022-01-20--damian.plaza'
+17	15	Powel.Synchronization.Modules/sync-components.ps1
+
+'--ee31499--2022-01-20--Damian Płaza'
+'--0df79da--2022-01-20--Damian Płaza'
+1	0	.github/ISSUE_TEMPLATE/deployment-issue.md
+
+'--f7fda33--2022-01-20--Damian Płaza'
+1	1	.github/ISSUE_TEMPLATE/deployment-issue.md
+
+'--9bfdc0e--2022-01-19--damian.plaza'
+14	12	Powel.Synchronization.Modules/sync-components.ps1
+
+'--7119669--2022-01-19--damian.plaza'
+9	2	Powel.Synchronization.Modules/sync-components.ps1
+1	4	Powel.Synchronization.Modules/sync-configuration.ps1
+1	0	Powel.Synchronization.Modules/variables.json
+
+'--c8dba9a--2022-01-17--Damian Płaza'
+'--c06d3c3--2022-01-17--damian.plaza'
+2	1	Powel.Synchronization.Modules/variables.json
+
+'--a436293--2022-01-17--damian.plaza'
+1	1	Powel.Synchronization.Modules/variables.json
+
+'--ef02179--2022-01-17--damian.plaza'
+2	2	Powel.Synchronization.Modules/sync-components.ps1
+3	3	Powel.Synchronization.Modules/variables.json
+
+'--a821c47--2022-01-10--Damian Płaza'
+'--e23b0fa--2022-01-10--damian.plaza'
+5	1	Powel.Synchronization.Modules/sync-components.ps1
+2	1	Powel.Synchronization.Modules/sync-configuration.ps1
+
+'--d558e04--2022-01-10--Damian Płaza'
+'--4fd2642--2022-01-10--damian.plaza'
+1	1	script/send-mc.ps1

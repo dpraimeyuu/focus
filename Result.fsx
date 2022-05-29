@@ -11,3 +11,5 @@ module Result =
             | _, Error r -> Error r
         ) (Ok List.empty)
         |> Result.map (Array.ofList)
+
+    let inline (>>=) fn res = Result.bind fn res

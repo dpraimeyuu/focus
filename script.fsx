@@ -151,6 +151,48 @@ module Domain =
             |> parseEntries
 
         module Analysis =
+            module Summary =
+                type AuthorsCount = private AuthorsCount of authorsCount: int
+                    with static member From(gitLogEntries: GitLogEntry array): AuthorsCount =
+                            gitLogEntries
+                            |> Array.distinctBy (fun e -> e.Author)
+                            |> Array.length
+                            |> AuthorsCount
+
+                type CommitsCount = private CommitsCount of commitsCount: int
+                with static member From(gitLogEntries: GitLogEntry array): CommitsCount =
+                        gitLogEntries 
+                        |> Array.length
+                        |> CommitsCount
+
+                type EntitiesCount = private EntitiesCount of entitiesCount: int
+                with static member From(gitLogEntries: GitLogEntry array): EntitiesCount =
+                        gitLogEntries
+                        |> Array.collect (fun e -> e.Changes)
+                        |> Array.distinctBy (fun change -> change.FilePath)
+                        |> Array.length
+                        |> EntitiesCount
+
+                type ChangedEntitiesCount = private ChangedEntitiesCount of changedEntitiesCount: int
+                with static member From(gitLogEntries: GitLogEntry array): ChangedEntitiesCount =
+                            gitLogEntries
+                            |> Array.collect (fun e -> e.Changes)
+                            |> Array.length
+                            |> ChangedEntitiesCount
+                
+                type Summary = private {
+                    CommitsCount: CommitsCount
+                    EntitiesCount: EntitiesCount
+                    ChangedEntitiesCount: ChangedEntitiesCount
+                    AuthorsCount: AuthorsCount
+                }
+                with static member From(gitLogEntries: GitLogEntry array): Summary =
+                        {
+                            AuthorsCount = AuthorsCount.From(gitLogEntries)
+                            EntitiesCount = EntitiesCount.From(gitLogEntries)
+                            ChangedEntitiesCount = ChangedEntitiesCount.From(gitLogEntries)
+                            CommitsCount = CommitsCount.From(gitLogEntries)
+                        }
             type [<Measure>] revision
             type TotalRevisions = private {
                 File: FilePath
@@ -166,12 +208,7 @@ module Domain =
                                 |> LanguagePrimitives.Int32WithMeasure
                         }
 
-            let summary (logs: GitLogEntry array) =
-                logs
-                |> Array.collect(fun log -> log.Changes)
-                |> Array.groupBy (fun change -> change.FilePath)
-                |> Array.Parallel.map TotalRevisions.From
-                |> Array.sortBy (fun totalRevisions -> totalRevisions.Revisions)
+            let summary = Summary.Summary.From
 
 open Domain
 open System

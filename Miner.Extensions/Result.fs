@@ -1,3 +1,5 @@
+﻿namespace Miner.Extensions
+
 [<AutoOpen>]
 module Result =
     let traverse (rs: Result<'a, 'b> array): Result<'a array, 'b> =

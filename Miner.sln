@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Miner.Extensions", "Miner.Extensions\Miner.Extensions.fsproj", "{8AF4D92B-2AD3-4AF3-A024-CE1C693419F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miner.Core", "Miner.Core", "{74E14399-E91E-488D-B463-8BF42E25C681}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Miner.Core", "Miner.Core\src\Miner.Core.fsproj", "{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Miner.Core.Tests", "Miner.Core\tests\Miner.Core.Tests.fsproj", "{917D764D-4D8F-45A0-85DC-4D2C1C51807B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E439C7B1-1ADC-4C2A-91D6-AA1A78E32551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E439C7B1-1ADC-4C2A-91D6-AA1A78E32551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E439C7B1-1ADC-4C2A-91D6-AA1A78E32551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E439C7B1-1ADC-4C2A-91D6-AA1A78E32551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF4D92B-2AD3-4AF3-A024-CE1C693419F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF4D92B-2AD3-4AF3-A024-CE1C693419F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF4D92B-2AD3-4AF3-A024-CE1C693419F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF4D92B-2AD3-4AF3-A024-CE1C693419F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917D764D-4D8F-45A0-85DC-4D2C1C51807B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917D764D-4D8F-45A0-85DC-4D2C1C51807B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917D764D-4D8F-45A0-85DC-4D2C1C51807B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917D764D-4D8F-45A0-85DC-4D2C1C51807B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B2F8E9A-502E-4892-9DD2-1299ACF6BA57} = {74E14399-E91E-488D-B463-8BF42E25C681}
+		{917D764D-4D8F-45A0-85DC-4D2C1C51807B} = {74E14399-E91E-488D-B463-8BF42E25C681}
+	EndGlobalSection
+EndGlobal

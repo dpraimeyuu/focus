@@ -1,8 +1,8 @@
-#load "Result.fsx"
+namespace Miner.Core
 
 module Domain =
     open System
-    open Result
+    open Miner.Extensions
     module GitLog =
         type CommitSha = private CommitSha of sha: string
         type CommitAuthor = private CommitAuthor of author: string
@@ -208,13 +208,4 @@ module Domain =
                                 |> LanguagePrimitives.Int32WithMeasure
                         }
 
-            let summary = Summary.Summary.From
-
-open Domain
-open System
-
-let logFile = System.IO.File.ReadAllText(@"./logfile.log", Text.Encoding.UTF8)
-let logs = GitLog.parse logFile
-
-logs
-|> Result.map GitLog.Analysis.summary
+        let summary = Analysis.Summary.Summary.From
